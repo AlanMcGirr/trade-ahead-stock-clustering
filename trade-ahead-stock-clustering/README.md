@@ -7,7 +7,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-![Demo Preview](assets/demo-preview.png)
+![Demo Preview](trade-ahead-stock-clustering/assets/assets:demo-preview.png)
 
 ---
 
