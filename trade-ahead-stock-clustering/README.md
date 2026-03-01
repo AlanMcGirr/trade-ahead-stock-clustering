@@ -2,12 +2,11 @@
 
 **Unsupervised learning applied to 340 NYSE-listed companies to uncover actionable investment segments using K-Means and Hierarchical Clustering.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Interactive-blue?style=for-the-badge)]([DEMO_URL_PLACEHOLDER](https://stock-clutsering-analysis.netlify.app/))
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-![Demo Preview](trade-ahead-stock-clustering/assets/assets:demo-preview.png)
+[Live Demo](https://stock-clutsering-analysis.netlify.app/)
 
 ---
 
